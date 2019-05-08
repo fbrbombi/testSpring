@@ -1,0 +1,5 @@
+
+qsquid:S4488"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(ïÑŸèÿÿÿÿÿ8æÊ…Ç©-
+Jsquid:S1700"'Rename field "productServiceController"(Êş£¥úÿÿÿÿ8¦ûªÈ©-
+gsquid:S4488,"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(®öÌb8æÊ…Ç©-
+fsquid:S4488$"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ÏÛŞ8æÊ…Ç©-
